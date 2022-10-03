@@ -6,3 +6,4 @@ Web 2.0 : advertisements or selling personal data. The exploitation and centrali
 Web 3.0 : Verifiable, Trustless, Self-governing, Permissionless,Distributed and robust, Stateful, Native built-in payments.
 network participants (developers) are incentivized and compete to provide the highest quality services to anyone using the service like compute, storage, bandwidth, identity, hosting, and other web services commonly provided by cloud providers in the past.
 DAOs : decentralized autonomous organization
+check
